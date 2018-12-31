@@ -30,18 +30,6 @@ else:
     failed_searches = set()
 
 
-
-
-
-
-if "byygeen" in probably_improper_word_forms:
-    print("yayeuh")
-
-
-print("ok stop")
-
-
-
 sanalista = pickle.load(open("minun_sanalista","rb"))
 
 corpus = open("sata_lasissa.txt","rt",encoding="utf-8")
